@@ -1,0 +1,19 @@
+{
+    "name": "codin/php-pro",
+    "description": "php-profissional",
+    "autoload": {
+        "files": [
+            "app/helpers/constantes.php"
+        ],
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Douglas",
+            "email": "douglasd3v.contato@gmail.com"
+        }
+    ],
+    "require": {}
+}
